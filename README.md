@@ -13,7 +13,9 @@
 
    **Accéder au dossier** :
 
-   `0x7-OSINT`
+   `cd Téléchargement`
+   `unzip 0x7-OSINT-main.zip`
+   `cd 0x7-OSINT-main.zip`
 
    **Lancer l'installation** :
 
@@ -21,7 +23,7 @@
 
    **Attendre la fin de l'installation** :
 
-    Le script installera les dépendances et lancera l'outil. Suivez les instructions à l'écran.
+    Le script installera les dépendances et lancera l'outil. Suivez les instructions à l'écran. ( Le tool n'est pas compatible sur termux ! )
 
 ## Contact
 
