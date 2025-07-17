@@ -8,25 +8,21 @@
 
 1. **Cloner le dépôt** :
 
-   ```bash
-   git clone https://github.com/<ton-utilisateur>/0x7-OSINT.git
 
-    Accéder au dossier :
+   `git clone https://github.com/0x7EF4/0x7-OSINT.git`
 
-    bash
+   **Accéder au dossier** :
 
-cd 0x7-OSINT
+   `0x7-OSINT`
 
-Lancer l'installation :
+   **Lancer l'installation** :
 
-bash
+    `python3 Setup.py`
 
-    python3 setup.py
-
-    Attendre la fin de l'installation :
+   **Attendre la fin de l'installation** :
 
     Le script installera les dépendances et lancera l'outil. Suivez les instructions à l'écran.
 
-Contact
+## Contact
 
 Développé par 0x7EF4. N’hésitez pas à mettre une ⭐ sur GitHub si vous aimez le projet !
