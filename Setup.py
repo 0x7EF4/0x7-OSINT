@@ -4,10 +4,12 @@ try:
 
     def OpenSites():
         try:
-            import webbrowser
-            from Program.Config.Config import telegram, gunslol
-            webbrowser.open(f'https://{telegram}')
-            webbrowser.open(f'https://{gunslol}')
+            # Suppression de l'ouverture des sites
+            # import webbrowser
+            # from Program.Config.Config import telegram, gunslol
+            # webbrowser.open(f'https://{telegram}')
+            # webbrowser.open(f'https://{gunslol}')
+            pass
         except:
             pass
 
