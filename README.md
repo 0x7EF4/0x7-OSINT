@@ -14,8 +14,10 @@
    **Accéder au dossier** :
 
    `cd Téléchargement`
+   
    `unzip 0x7-OSINT-main.zip`
-   `cd 0x7-OSINT-main.zip`
+   
+   `cd 0x7-OSINT-main`
 
    **Lancer l'installation** :
 
